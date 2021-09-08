@@ -1,0 +1,26 @@
+body{
+    background-color: linen;
+    margin: 200px;
+    justify-content: center;
+    display: flex;
+}
+
+.container{
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+}
+
+.saffron{
+    background-color: #FF9933;
+}
+
+.white{
+    background-color: #FFFFFF;
+}
+
+.green{
+    background-color: #138808;
+}
